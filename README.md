@@ -12,6 +12,11 @@ Basic knowledge:
 * C#
 * React
 * Kotlin
-  
+
+Currently learning:
+* Java
+* React
+
+
 __E-Mail__: f.kamieniecki.personal@gmail.com  
 __Discord__: foxiakowsky
