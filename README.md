@@ -1,25 +1,25 @@
-#About Me
+# About Me
 Just a CS student wasting his life away.😶    
 
 
-##Programming Languages:
-###Proficient in:
+## Programming Languages:
+### Proficient in:
 * HTML & CSS
 * JavaScript and TypeScript
 * Python
 * SQL
 * PHP
 
-###Basic knowledge:
+### Basic knowledge:
 * C++
 * C#
 * React
 * Kotlin
 
-###Currently learning:
+### Currently learning:
 * Java
 * React
 
-##Contacts:
+## Contacts:
 __E-Mail__: f.kamieniecki.personal@gmail.com  
 __Discord__: foxiakowsky
