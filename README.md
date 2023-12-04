@@ -1,19 +1,19 @@
 # About Me
-Just a CS student wasting his life away.😶    
+Just a simple guy, jumping from obsession to obsession.😶    
 
 
 ## Programming Languages:
 ### Proficient in:
-* HTML & CSS
+* HTML, CSS & SASS
 * JavaScript and TypeScript
 * Python
 * SQL
 * PHP
+* React
 
 ### Basic knowledge:
 * C++
 * C#
-* React
 * Kotlin
 
 ### Currently learning:
