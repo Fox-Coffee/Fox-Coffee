@@ -17,8 +17,7 @@ Just a simple guy, jumping from obsession to obsession.😶
 * Kotlin
 
 ### Currently learning:
-* Java
-* React
+* C++
 
 ## Contacts:
 __E-Mail__: f.kamieniecki.personal@gmail.com  
