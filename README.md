@@ -5,7 +5,6 @@
 My name is Eden, I'm a programming student. Except programming I'm also interested in writing and heavy metal music✏🎸.  
   
 I am currently learning C#, and trying to expand my knowledge on both web and desktop development.  
-I go by She/Her pronouns.
 
 ### Languages
 
@@ -36,10 +35,4 @@ I go by She/Her pronouns.
 - MySQLi
 - PDO
 
-### "Can I use your code?"
-All my code is fully open and free to use by anyone who wants to do so, unless stated otherwise in the project itself or it's license. I work under the philosophy of making and sharing with the community, for the good of the community, rather than myself alone. 🤗
-
-### Contact
-
 📧E-Mail: f.kamieniecki.personal@gmail.com  
-💬Discord: notsosilent.cat
