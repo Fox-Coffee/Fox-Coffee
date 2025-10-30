@@ -4,7 +4,7 @@
   
 My name is Eden, I'm a programming student. Except programming I'm also interested in writing and heavy metal music✏🎸.  
   
-I am currently learning C#, and trying to expand my knowledge on both web and desktop development.  
+I am currently learning C, and trying to expand my knowledge on both web and desktop development.  
 
 ### Languages
 
@@ -15,5 +15,3 @@ I am currently learning C#, and trying to expand my knowledge on both web and de
 - <img src="https://github.com/user-attachments/assets/075ad3d8-8d09-4f82-8b30-144eab5eeaf1" height="15" alt="Python"/> Python
 - <img src="https://github.com/user-attachments/assets/5dcdb756-e73e-4d5d-8301-0406dbbce56e" width="15" alt="C#"/> C#
 - **SQL**
-
-📧E-Mail: f.kamieniecki.personal@gmail.com  
