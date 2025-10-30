@@ -2,7 +2,7 @@
 
 👋 Hello  
   
-My name is Eden, I'm a programming student. Except programming I'm also interested in writing and heavy metal music✏🎸.  
+My name is Eden, I'm a first year computer science student. Except programming I'm also interested in writing and heavy metal music✏🎸.  
   
 I am currently learning C, and trying to expand my knowledge on both web and desktop development.  
 
